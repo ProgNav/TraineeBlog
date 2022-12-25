@@ -6,6 +6,11 @@
 #### 软件架构
 软件架构说明
 
+JDK 17
+SpringFramework 6.0.3
+SpringBoot 3.0.1
+Thymeleaf 3.1.1.RELEASE
+MyBatis 3.5.11
 
 #### 安装教程
 
